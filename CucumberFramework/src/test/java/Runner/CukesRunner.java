@@ -13,7 +13,9 @@ import org.junit.runner.RunWith;
         },
         features = "src/test/resources/features",
         glue = "StepDefinitions",
-        monochrome = true
+        monochrome = true,
+        stepNotifications = true,
+        tags = ("@Register or @Login")
 )
 public class CukesRunner {
 }
