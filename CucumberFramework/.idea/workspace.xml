@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a8c5f7f-d848-45f8-ac53-d768b4b92706" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/RegisterLoginTest.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Runner/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Runner/CukesRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/RegisterAndLoginStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/StepTest_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/LoginTest.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/TestCase_01.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/cucumber.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/cucumber.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Runner/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Runner/CukesRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinitions/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinitions/Hooks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinitions/LoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinitions/StepTest_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/LoginTest.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/TestCase_01.feature" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
